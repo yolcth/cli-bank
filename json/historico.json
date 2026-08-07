@@ -1,0 +1,30 @@
+[
+    {
+        "nome": "Matheus",
+        "idade": 22,
+        "senha": "1101",
+        "saldo": 200.5,
+        "transacao": [
+            {
+                "Tipo": "deposito",
+                "Valor": 0.5
+            },
+            {
+                "Tipo": "deposito",
+                "Valor": 0.05
+            },
+            {
+                "Tipo": "deposito",
+                "Valor": 100.0
+            },
+            {
+                "Tipo": "saque",
+                "Valor": 30.0
+            },
+            {
+                "Tipo": "pix",
+                "Valor": 90.0
+            }
+        ]
+    }
+]
